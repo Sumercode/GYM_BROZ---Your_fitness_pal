@@ -28,7 +28,7 @@ const SearchExercises = ({ setExercises, bodyPart, setBodyPart }) => {
     if (search) {
 
       // here I have increased the search results to 500 to get more data from the API and increase the chances of getting our search results 
-      const exercisesData = await fetchData('https://exercisedb.p.rapidapi.com/exercises?limit=50&page=1', exerciseOptions);
+      const exercisesData = await fetchData('https://exercisedb.p.rapidapi.com/exercises?limit=10&page=1', exerciseOptions);
         console.log(exercisesData);
        // to get search results in searchedExercises variable and later using setExcercise setting the new state of exercises in home
       const searchedExercises = exercisesData.filter(
