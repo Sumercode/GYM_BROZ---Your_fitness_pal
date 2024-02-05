@@ -1,6 +1,6 @@
 # GYM BROZ - YOUR FITNESS PAL
 
-## CHECK OUT THE LIVE DEMO AT - www.gymbroz.netlify.app
+## CHECK OUT THE LIVE DEMO AT - https://gymbroz.netlify.app/
 
 ![image](https://github.com/Sumercode/GYM_BROZ---Your_fitness_pal/assets/105717568/93a20f6a-fb6a-42fe-ace3-769902453ee8)
 
