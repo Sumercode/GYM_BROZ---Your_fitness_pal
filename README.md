@@ -1,6 +1,6 @@
 # GYM BROZ - YOUR FITNESS PAL
 
-![image](https://github.com/Sumercode/GYM_BROZ-Your_fitness_pal/assets/105717568/14e997ce-6c78-4329-9c69-e44d9be79cd6)
+![image](https://github.com/Sumercode/GYM_BROZ---Your_fitness_pal/assets/105717568/93a20f6a-fb6a-42fe-ace3-769902453ee8)
 
 
 GYM BROZ is a web application designed to help you achieve your fitness goals by providing a wide range of exercises targeting various muscle groups. It offers detailed information about each exercise, including the muscles it targets, required equipment, and video demonstrations to ensure proper form and technique.
